@@ -10,17 +10,17 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About](https://github.com/mahiniaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/mahiniaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#portfolio-projects)
+- [About](https://github.com/mahintiaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#about)
+- [Portfolio Projects](https://github.com/mahintiaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#portfolio-projects)
   
   - SQL and Power BI
-     - [Analyzing Students Mental Health](https://github.com/mahiniaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#analyzing-students-mental-health)
-     - [Analyze International Debt Statistics](https://github.com/mahiniaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#analyze-international-debt-statistics)
-     - [Case Study-Analyzing Customer Churn in Power BI](https://github.com/mahiniaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#case-study-analyzing-customerchurn-in-power-bi)
+     - [Analyzing Students Mental Health](https://github.com/mahintiaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#analyzing-students-mental-health)
+     - [Analyze International Debt Statistics](https://github.com/mahintiaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#analyze-international-debt-statistics)
+     - [Case Study-Analyzing Customer Churn in Power BI](https://github.com/mahintiaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#case-study-analyzing-customerchurn-in-power-bi)
        
-- [Education](https://github.com/mahiniaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#education)
-- [Certifications](https://github.com/mahiniaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#certifications)
-- [Contacts](https://github.com/mahiniaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#contacts)
+- [Education](https://github.com/mahintiaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#education)
+- [Certifications](https://github.com/mahintiaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#certifications)
+- [Contacts](https://github.com/mahintiaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#contacts)
 
 
 
@@ -30,7 +30,7 @@ In this section, I will list data analytics projects briefly describing the tech
 ### Analyzing Students Mental Health
 **Tools Used:** PostgreSQL, Power BI
 
-**Dataset:** [Mental health survey of international students in Japan](https://github.com/mahiniaz/Analyzing-Students-Mental-Health)
+**Dataset:** [Mental health survey of international students in Japan](https://github.com/mahintiaz/Analyzing-Students-Mental-Health)
 
 **Project Goal:** The primary objective of this project is to analyze the mental health of international students in Japan and determine how length of stay impacts depression (PHQ-9), social connectedness (SCS), and acculturative stress (ASISS) scores.
 
@@ -48,7 +48,7 @@ Skills: SQL, and Power BI Skills Used
 ## Analyze International Debt Statistics
 **Tools Used:** Excel, PostgreSQL, Power BI
 
-**Dataset:** [Analyze International Debt](https://github.com/mahiniaz/Analyze-International-Debt)
+**Dataset:** [Analyze International Debt](https://github.com/mahintiaz/Analyze-International-Debt)
 
 **Project Goal:** This project analyzes international debt statistics collected by The World Bank to understand debt distribution among developing countries. The objective is to identify:
 
@@ -66,7 +66,7 @@ Distinct Countries in the Dataset, Country with the Highest Total Debt, Country 
 
 ## Case Study-Analyzing Customer Churn in Power BI
 
-**Dataset:**[Analyzing Customer Churn](https://github.com/mahiniaz/customer-churn-analysis-power-bi/tree/main)
+**Dataset:**[Analyzing Customer Churn](https://github.com/mahintiaz/customer-churn-analysis-power-bi/tree/main)
 
 **Project Goal:** In this Power BI case study, I'll investigate a dataset from an example telecom company called Databel and analyze their churn rates. This case study helps to understand why customers are churning at the rate they are, and how to reduce churn.
 
