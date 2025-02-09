@@ -14,7 +14,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](https://github.com/mahiniaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#portfolio-projects)
   
   - SQL and Power BI
-     - [Analyzing Students' Mental Health](https://github.com/mahiniaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#analyzing-student'-mental-health)
+     - [Analyzing Students Mental Health](https://github.com/mahiniaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#analyzing-students-mental-health)
      - [Analyze International Debt Statistics](https://github.com/mahiniaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#analyze-international-debt-statistics)
      - [Case Study: Analyzing Customer Churn in Power BI](https://github.com/mahiniaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#case-study:-analyzing-customerchurn-in-power-bi)
        
@@ -27,7 +27,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Analyzing Students' Mental Health
+### Analyzing Students Mental Health
 **Tools Used:** PostgreSQL, Power BI
 
 **Dataset:** [Mental health survey of international students in Japan](https://github.com/mahiniaz/Analyzing-Students-Mental-Health)
