@@ -1,4 +1,5 @@
 # Data-Analyst-Portfolio-Mahin-Imtiyaz
+
 ## About
 Hi, I'm Mahin! I completed my Bachelor's degree in Computer Science and Engineering. I am focused on strengthening my data analytics skills through various courses and projects. I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data analyst.
 
@@ -10,6 +11,17 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of Contents
 - [About](https://github.com/mahiniaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#about)
+- [Portfolio Projects](https://github.com/mahiniaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#PortfolioProjects)
+  
+  - SQL and Power BI
+     - [Analyzing Students' Mental Health](https://github.com/mahiniaz/Analyzing-Students-Mental-Health)
+     - [Analyze International Debt Statistics](https://github.com/mahiniaz/Analyze-International-Debt)
+     - [Case Study: Analyzing Customer Churn in Power BI](https://github.com/mahiniaz/customer-churn-analysis-power-bi/tree/main)
+       
+- [Education](https://github.com/mahiniaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#education)
+- [Certifications](https://github.com/mahiniaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#certifications)
+- [Contacts](https://github.com/mahiniaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#contacts)
+
 
 
 ## Portfolio Projects
@@ -18,7 +30,7 @@ In this section, I will list data analytics projects briefly describing the tech
 ### Analyzing Students' Mental Health
 **Tools Used:** PostgreSQL, Power BI
 
-**Dataset:** Mental health survey of international students in Japan
+**Dataset:** [Mental health survey of international students in Japan](https://github.com/mahiniaz/Analyzing-Students-Mental-Health)
 
 **Project Goal:** The primary objective of this project is to analyze the mental health of international students in Japan and determine how length of stay impacts depression (PHQ-9), social connectedness (SCS), and acculturative stress (ASISS) scores.
 
@@ -36,7 +48,7 @@ Skills: SQL, and Power BI Skills Used
 ## Analyze International Debt Statistics
 **Tools Used:** Excel, PostgreSQL, Power BI
 
-**Dataset:**
+**Dataset:** [Analyze International Debt](https://github.com/mahiniaz/Analyze-International-Debt)
 
 **Project Goal:** This project analyzes international debt statistics collected by The World Bank to understand debt distribution among developing countries. The objective is to identify:
 
@@ -52,7 +64,9 @@ After completing the analysis, the project provides valuable insights into inter
 Distinct Countries in the Dataset, Country with the Highest Total Debt, Country with the Lowest Principal Repayment
 
 
-## Analyzing Customer Churn in Power BI
+## Case Study: Analyzing Customer Churn in Power BI
+
+**Dataset:**[Analyzing Customer Churn](https://github.com/mahiniaz/customer-churn-analysis-power-bi/tree/main)
 
 **Project Goal:** In this Power BI case study, I'll investigate a dataset from an example telecom company called Databel and analyze their churn rates. This case study helps to understand why customers are churning at the rate they are, and how to reduce churn.
 
@@ -73,8 +87,8 @@ The best way to showcase skills is by doing and sharing your job but sometimes c
 - Google Data Analytics Professional Certificate (January 2025) (Coursera - Google)
 
 ## Contacts
-- LinkedIn:
-- Email:
+- LinkedIn: [Mahin Imtiyaz](https://www.linkedin.com/in/mahin-imtiaz/)
+- Email: [eng.mahinn@gmail.com]
 
 
 
