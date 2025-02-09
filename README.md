@@ -16,7 +16,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - SQL and Power BI
      - [Analyzing Students Mental Health](https://github.com/mahiniaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#analyzing-students-mental-health)
      - [Analyze International Debt Statistics](https://github.com/mahiniaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#analyze-international-debt-statistics)
-     - [Case Study: Analyzing Customer Churn in Power BI](https://github.com/mahiniaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#case-study:-analyzing-customerchurn-in-power-bi)
+     - [Case Study-Analyzing Customer Churn in Power BI](https://github.com/mahiniaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#case-study-analyzing-customerchurn-in-power-bi)
        
 - [Education](https://github.com/mahiniaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#education)
 - [Certifications](https://github.com/mahiniaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#certifications)
@@ -64,7 +64,7 @@ After completing the analysis, the project provides valuable insights into inter
 Distinct Countries in the Dataset, Country with the Highest Total Debt, Country with the Lowest Principal Repayment
 
 
-## Case Study: Analyzing Customer Churn in Power BI
+## Case Study-Analyzing Customer Churn in Power BI
 
 **Dataset:**[Analyzing Customer Churn](https://github.com/mahiniaz/customer-churn-analysis-power-bi/tree/main)
 
