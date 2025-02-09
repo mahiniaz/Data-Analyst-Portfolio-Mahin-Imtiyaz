@@ -14,9 +14,9 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](https://github.com/mahiniaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#portfolio-projects)
   
   - SQL and Power BI
-     - [Analyzing Students' Mental Health](https://github.com/mahiniaz/Analyzing-Students-Mental-Health)
-     - [Analyze International Debt Statistics](https://github.com/mahiniaz/Analyze-International-Debt)
-     - [Case Study: Analyzing Customer Churn in Power BI](https://github.com/mahiniaz/customer-churn-analysis-power-bi/tree/main)
+     - [Analyzing Students' Mental Health](https://github.com/mahiniaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#analyzing-student'-mental-health)
+     - [Analyze International Debt Statistics](https://github.com/mahiniaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#analyze-international-debt-statistics)
+     - [Case Study: Analyzing Customer Churn in Power BI](https://github.com/mahiniaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#case-study:-analyzing-customerchurn-in-power-bi)
        
 - [Education](https://github.com/mahiniaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#education)
 - [Certifications](https://github.com/mahiniaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#certifications)
