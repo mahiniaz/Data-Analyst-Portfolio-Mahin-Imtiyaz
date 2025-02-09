@@ -8,6 +8,10 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
+## Table of Contents
+- [About](https://github.com/mahiniaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#about)
+
+
 ## Portfolio Projects
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
 
