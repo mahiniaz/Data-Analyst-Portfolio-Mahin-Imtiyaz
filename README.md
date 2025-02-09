@@ -11,7 +11,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of Contents
 - [About](https://github.com/mahiniaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/mahiniaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#PortfolioProjects)
+- [Portfolio Projects](https://github.com/mahiniaz/Data-Analyst-Portfolio-Mahin-Imtiyaz/blob/main/README.md#portfolioprojects)
   
   - SQL and Power BI
      - [Analyzing Students' Mental Health](https://github.com/mahiniaz/Analyzing-Students-Mental-Health)
